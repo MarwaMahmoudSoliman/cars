@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 5000px;
+}
+ul{
+    background-color: black;
+    height: 50px;
+    
+    
+}
+li{
+    display: inline-block;
+    opacity:.05;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.div1{
+    width: 800px;
+}
+.car{
+    float: left;
+}
+.car2{
+    float: right;
+}
+.footer{
+    text-align:center ;
+
+}
+.section2{
+    float: right;
+    text-align: right;
+    margin-top: -540px;
+
+}
+h3{
+    text-align: right;
+   
+}
+.h{
+    text-align: right;
+}
+
